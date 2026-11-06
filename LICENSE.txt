@@ -1,0 +1,178 @@
+﻿MADISON SOFTWARE LICENCE
+
+Version 1.0, effective 28 October 2026
+
+Copyright 2026 Madison Group Enterprises Pty Ltd. All rights reserved.
+
+This licence ("Licence") is between Madison Group Enterprises Pty Ltd ABN 56 010 669 379 ("Madison", "we", "us") and the person or organisation that downloads, installs, copies or uses the Software ("you").
+
+1. DEFINITIONS AND ACCEPTANCE
+
+1.1 In this Licence:
+- Software means the software named in the Schedule, in the form we provide it (application, source code or both), including its documentation, assets and any updates we provide.
+- Schedule means the Release Schedule supplied with the Software, which forms part of this Licence.
+- Permitted Purpose and Supported Products have the meanings given in the Schedule.
+- Client means a customer of yours for whom you deliver a project that uses Supported Products, and Client System means the system you deliver to that Client.
+- Your Output means the configurations, designs, files and code you create using the Software, excluding the Software itself.
+
+1.2 By clicking "I agree", or by downloading, installing, copying or using the Software, you accept this Licence. If you do not accept it, do not do any of those things.
+
+1.3 If you accept on behalf of an employer or other organisation, you confirm you are authorised to bind it, and "you" includes that organisation.
+
+1.4 If the Schedule and these terms conflict, the Schedule prevails for that Software.
+
+2. LICENCE
+
+2.1 Subject to this Licence, we grant you a free, non-exclusive, non-transferable, revocable licence to install and use the Software for the Permitted Purpose, including on projects you deliver to Clients.
+
+2.2 You may install the Software on as many devices as your personnel reasonably need for the Permitted Purpose, and make backup copies.
+
+2.3 You own Your Output. Where Your Output includes icons, images, templates or other content from the Software, we grant you a free, perpetual licence to use that content as part of Your Output for the Permitted Purpose, subject to clause 5.2.
+
+3. SOURCE CODE
+
+This clause applies only where the Schedule says the Software is provided as source code. The Schedule also says whether the source code is Public or Restricted.
+
+3.1 All source code. You may view and modify the source code, and include the Software or your modified version in a Client System, for the Permitted Purpose. You may install it on that Client's equipment, and the Client may use it as part of that Client System on the terms of this Licence.
+
+3.2 You own your modifications. Madison continues to own the Software and any part of it included in your modified version.
+
+3.3 You must keep our copyright notice, this Licence and the Schedule with every copy, and must not remove or obscure Madison's name in the Software.
+
+3.4 Restricted source code. If the Schedule says the source code is Restricted, you must not publish it, or any modified version, in a public repository or otherwise make it available outside your organisation and your Clients.
+
+3.5 Public source code. If the Schedule says the source code is Public, you may also copy and share the source code and your modified versions with anyone, including in public repositories, provided that:
+(a) every copy is shared free of charge and under this Licence;
+(b) modified versions are clearly marked as modified and credit Madison as the original author;
+(c) you do not rebrand the Software, or present it or a modified version as your own product or as endorsed by Madison; and
+(d) you do not sell, or charge a licence fee for, the Software or a modified version, on its own or as a product.
+
+3.6 Charging your Clients for your own services, such as designing, programming, installing or supporting a Client System that includes the Software, does not breach clause 3.5(d).
+
+4. RESTRICTIONS
+
+4.1 Except as this Licence expressly allows or as permitted by law, you must not:
+(a) copy, distribute, sublicense, sell, rent, lend or otherwise make the Software available to anyone outside your organisation, including by hosting it online;
+(b) modify, adapt or create derivative works of the Software;
+(c) decompile, disassemble or reverse engineer the Software;
+(d) remove or alter any copyright, trademark or licence notice;
+(e) circumvent or interfere with any licensing check or security feature;
+(f) use the Software for any purpose other than the Permitted Purpose, or to develop a product or service that competes with it; or
+(g) use the Software in breach of any law.
+
+4.2 Nothing in this Licence excludes or limits any act you are entitled to do under sections 47B to 47H of the Copyright Act 1968 (Cth).
+
+4.3 Anyone else who wants the Software can obtain it from us at [URL].
+
+5. OWNERSHIP AND THIRD-PARTY COMPONENTS
+
+5.1 The Software is licensed, not sold. Madison and its licensors own all intellectual property rights in it. You receive only the rights this Licence expressly grants.
+
+5.2 The Software may include open-source components, fonts, icons or other third-party material licensed on their own terms, as listed in the third-party notices supplied with it. Those terms govern your use of that material. Nothing in this Licence restricts rights they grant you, and you must not extract and redistribute any material those terms do not allow you to redistribute.
+
+6. THIRD-PARTY PRODUCTS AND TRADEMARKS
+
+6.1 The Software is an independent product of Madison. It is not made, endorsed, supported or warranted by the manufacturer of the Supported Products or of any other product it works with.
+
+6.2 Product names and brands referred to in the Software or the Schedule are trademarks of their owners. We use them only to identify compatible products.
+
+6.3 Your use of Supported Products, their firmware and their manufacturer's software remains subject to that manufacturer's terms. We make no representation about how using the Software affects the manufacturer's warranty or support.
+
+6.4 Firmware or software updates from the manufacturer may stop the Software working in whole or in part. We are not obliged to update the Software to suit.
+
+7. YOUR RESPONSIBILITIES
+
+You are responsible for:
+- ensuring the Software is used only by suitably qualified personnel;
+- backing up the configuration of any device before the Software changes it;
+- testing the Software and Your Output before using them on a live site or handing them over to a Client;
+- the security of the networks and systems you use the Software on;
+- any representations you make to Clients about the Software or Your Output; and
+- where the Software forms part of a Client System, its suitability for that Client, and any support you agree to give the Client.
+
+8. RELEASE STATUS, UPDATES AND SUPPORT
+
+8.1 If the Schedule describes the Software, or any feature of it, as pre-release or experimental, it may contain errors and may leave a device needing a reset or firmware recovery.
+
+8.2 We may provide updates, and this Licence applies to them. We are not obliged to provide updates, maintenance or support. Any support we choose to give is on a reasonable-efforts basis.
+
+8.3 We may change, suspend or stop offering the Software at any time.
+
+9. DATA AND PRIVACY
+
+9.1 If you register to obtain the Software, we collect the details you give us, such as your name, company and email address. We use them to provide the Software, tell you about updates, and contact you about Madison products unless you opt out.
+
+9.2 The Software sends data to us or to third parties only as described in the Schedule.
+
+9.3 We handle personal information in line with our Privacy Policy at [URL] and the Privacy Act 1988 (Cth).
+
+10. WARRANTIES AND AUSTRALIAN CONSUMER LAW
+
+10.1 Nothing in this Licence excludes, restricts or modifies any right, remedy, guarantee, warranty or other term implied or imposed by the Australian Consumer Law or other legislation that cannot lawfully be excluded, restricted or modified ("Non-excludable Rights").
+
+10.2 Subject to clause 10.1, the Software is provided "as is" and "as available". To the extent permitted by law, we exclude all other warranties, representations and conditions, express or implied, including as to fitness for purpose, merchantability, accuracy and non-infringement. We do not warrant that the Software will be error-free, uninterrupted, or compatible with any particular device, firmware or system.
+
+11. LIMITATION OF LIABILITY
+
+11.1 Where our liability for breach of a Non-excludable Right can be limited, and to the extent the Software is not of a kind ordinarily acquired for personal, domestic or household use, our liability is limited, at our option, to supplying the Software again or paying the cost of having it supplied again, in accordance with section 64A of the Australian Consumer Law.
+
+11.2 Subject to clauses 10.1 and 11.1, and to the extent permitted by law:
+(a) we are not liable for any indirect or consequential loss, or any loss of profit, revenue, data, goodwill or business opportunity, project delay, or damage to or loss of use of equipment, however caused, including by negligence; and
+(b) our total liability arising out of or in connection with this Licence or the Software is limited to AUD $100.
+
+12. INDEMNITY
+
+You indemnify Madison against any third-party claim (including by your Clients), and any related loss, cost or liability, arising from your use of the Software or Your Output, any Client System that includes the Software, your breach of this Licence or your breach of law, except to the extent caused by our negligence or breach.
+
+13. FEEDBACK
+
+If you give us suggestions or feedback about the Software, we may use them without restriction or obligation to you.
+
+14. TERM AND TERMINATION
+
+14.1 This Licence applies from when you accept it until it is terminated.
+
+14.2 You may terminate it at any time by deleting all copies of the Software in your possession.
+
+14.3 We may terminate it by notice to you on 30 days' notice for any reason, or immediately if you breach it.
+
+14.4 On termination you must stop using the Software and delete all copies in your possession. Clauses 5, 6, 10, 11, 12, 13 and 15, and your rights in Your Output, survive termination.
+
+14.5 Unless we terminate for your breach, a Client may keep using the Software as included in a Client System delivered before termination.
+
+15. GENERAL
+
+15.1 Changes. We may update this Licence for future versions of the Software. The version supplied with a release of the Software applies to that release.
+
+15.2 Assignment. You may not assign or transfer this Licence without our written consent. We may assign it to a related body corporate or to a successor to the Software.
+
+15.3 Entire agreement. This Licence and the Schedule are the entire agreement between us about the Software releases they apply to.
+
+15.4 Severability. If any part of this Licence is invalid or unenforceable, it is severed and the rest continues in effect.
+
+15.5 Waiver. A failure or delay in exercising a right is not a waiver of it.
+
+15.6 Governing law. This Licence is governed by the laws of Queensland, Australia, and each party submits to the non-exclusive jurisdiction of its courts.
+
+15.7 Contact. Madison Group Enterprises Pty Ltd, 61 Metroplex Avenue, Murarrie QLD 4172, [email].
+
+
+RELEASE SCHEDULE
+
+Software: BSS Commission, the release this Schedule is supplied with.
+
+Licence version: Madison Software Licence 1.0.
+
+Form supplied: Application (Windows installer), plus source code: Restricted.
+
+Permitted Purpose: Commissioning, configuring, loading designs onto, controlling, metering, backing up, restoring and troubleshooting Supported Products, including in Client Systems.
+
+Supported Products: Harman BSS Soundweb London BLU-50, BLU-100, BLU-101 and BLU-103 signal processors, and BSS EC-4BV and EC-8BV keypads.
+
+Release status: Released. Loading designs onto BLU devices and keypads is experimental.
+
+Data sent: An encrypted licence check-in to the licensing server, carrying a machine identifier (PC UUID), the serial number, the application name and the application version. It is used to check the licence and whether a newer version is available.
+
+Third-party material: Open-source components are licensed on their own terms. The notices for Electron and Chromium are installed with the app as LICENSE.electron.txt and LICENSES.chromium.html. [Notices for the other bundled components: to confirm.]
+
+Additional terms: None.
