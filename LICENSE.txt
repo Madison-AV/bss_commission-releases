@@ -62,7 +62,7 @@ This clause applies only where the Schedule says the Software is provided as sou
 
 4.2 Nothing in this Licence excludes or limits any act you are entitled to do under sections 47B to 47H of the Copyright Act 1968 (Cth).
 
-4.3 Anyone else who wants the Software can obtain it from us at [URL].
+4.3 Anyone else who wants the Software can obtain it from us at https://github.com/Madison-AV/bss_commission-releases/releases.
 
 5. OWNERSHIP AND THIRD-PARTY COMPONENTS
 
