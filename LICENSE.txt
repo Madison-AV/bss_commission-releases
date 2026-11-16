@@ -171,7 +171,7 @@ Supported Products: Harman BSS Soundweb London BLU-50, BLU-100, BLU-101 and BLU-
 
 Release status: Released. Loading designs onto BLU devices and keypads is experimental.
 
-Data sent: An encrypted licence check-in to the licensing server, carrying a machine identifier (PC UUID), the serial number, the application name and the application version. It is used to check the licence and whether a newer version is available.
+Data sent: Each time it starts, the Software downloads a small version file from GitHub Pages (github.io), operated by GitHub, Inc., to check whether a newer version is available. The request carries no serial number, machine identifier or other information about your computer or projects. Like any web request, it gives GitHub your IP address and basic request details, which GitHub handles under its own privacy statement.
 
 Third-party material: Open-source components are licensed on their own terms. The notices for Electron and Chromium are installed with the app as LICENSE.electron.txt and LICENSES.chromium.html. [Notices for the other bundled components: to confirm.]
 
